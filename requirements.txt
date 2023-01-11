@@ -1,0 +1,8 @@
+ccxt
+fastapi
+httpx
+line-bot-sdk
+mplfinance
+numpy
+pandas
+pandas-ta
